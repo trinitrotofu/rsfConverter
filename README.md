@@ -10,6 +10,14 @@ And of course, this program is using [EV3_RobotControl API](https://github.com/p
 
 ## Usage
 
+Please make sure FFmpeg is correctly installed on your computer.
+
+Ubuntu:
+
+```shell
+sudo apt install ffmpeg
+```
+
 Compile:
 
 ```shell
